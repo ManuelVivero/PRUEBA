@@ -10,9 +10,10 @@ package pruebaexamen;
  */
 public class Pruebaexamen {
 
-    /**
-     * @param args the command line arguments
-     */
+/**
+ * Este codigo lo q va a hacer es un cambio de divisas
+ * @param args 
+ */
     public static void main(String[] args) {
         // TODO code application logic here
     }
